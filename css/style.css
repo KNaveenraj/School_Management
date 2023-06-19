@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.body-home, .body-login {
+	background: url(../img/Screenshot\ 2023-06-19\ 095629.png);
+	background-size:cover;
+	background-attachment:fixed;
+	
+}
+
+.body-admin
+{
+	background: url(../img/Screenshot\ 2023-06-19\ 095629.png);
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+.black-fill {
+	background: rgba(227, 216, 216, 0.7);
+	min-height: 100vh;
+}
+#homeNav {
+	background: rgba(0.0,0.0,0.0, 0.0) !important;
+}
+
+.nav-link
+{	
+	padding-block-start: 0%;
+	font-size: 30px;
+}
+
+#cpyryt
+{
+	font-size: 30px;
+	padding-top: 42%;
+}
+
+#cpyryt-2
+{
+	font-size: 30px;
+	padding-top: 3%;
+}
+
+textarea {
+	resize: none;
+}
+
+.login {
+	max-width: 500px;
+	width: 90%;
+	background: rgba(255,255,255, 0.5);
+	padding: 10px;
+	border-radius: 10px;
+}
+.login h3{
+	text-align: center;
+	font-size: 50px;
+}
+.w-450 {
+	width: 450px;
+}
+.n-table {
+	max-width: 800px;
+}
+.form-w {
+	max-width: 600px;
+	width: 100%;
+}
